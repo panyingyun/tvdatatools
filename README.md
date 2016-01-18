@@ -5,14 +5,14 @@ Usage：
 
 ### 1.auto.bat 公网统计工具
 ```
-tvdatatools.exe -i "testdata.csv.csv"
+tvdatatools.exe -i "testdata.csv"
 ```
 注意：-i 后面接跟一个csv数据文件
 
 ### 2.auto_special.bat  专网统计工具
 ```
-tvdatatools.exe -i "testdata.csv.csv" -t "7001A31B1"
-tvdatatools.exe -i "testdata.csv.csv" -t "8101E6OF1"
+tvdatatools.exe -i "testdata.csv" -t "7001A31B1"
+tvdatatools.exe -i "testdata.csv" -t "8101E6OF1"
 ```
 注意：-i 后面接跟一个csv数据文件 -t 后面跟着具体的TVID参数
 
